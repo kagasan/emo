@@ -1,28 +1,8 @@
 const emoji = [
-    "bird01", 
-    "bird02",
-    "bird03",
-    "bird04",
-    "bird05", 
-    "bird06",
-    "bird07",
-    "bird08",
-    "buri",
-    "gotumori",
-    "ha",
-    "igyou",
-    "kuso",
-    "poopfire",
-    "raresiren",
-    "rin",
-    "sorena",
-    "sori",
-    "tetsuro",
-    "tetsuro2",
-    "tetsuro3",
-    "unko",
-    "wakaru",
-    "yu-no-"
+    "zozo", 
+    "kaga_anime",
+    "daichan_anime",
+    "sihan"
 ];
 
 window.onload = function(){
